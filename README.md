@@ -19,7 +19,8 @@ FBHunter is an accurate facebook account information gathering, all sensitive in
 ```
 $ apt update && apt upgrade
 $ apt install git python2
- 
+$ got clone https://github.com/ahksoft34/FBHunter.git
+
 ```
 
 # [ Setup ]
